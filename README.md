@@ -1,4 +1,4 @@
-I'm interested in the Data-Driven Dynamical Systems
+I'm interested in Data-Driven Dynamical Systems
 ### Education
 Ph.D. in Applied Mathematics
 ### Email
