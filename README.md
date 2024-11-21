@@ -1,7 +1,5 @@
 I'm a researcher at Universitas Airlangga<br>
-I'm interested in Data-Driven Dynamical Systems
-
-### Education
+I'm interested in Data-Driven Dynamical Systems<br>
 Ph.D. in Applied Mathematics
 
 ### Email
