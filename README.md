@@ -31,6 +31,7 @@ mohammad.ghani2013@gmail.com
 
 ### Discussions
 <li><b>Extended Kalman Filter</b></li>
+
 ![alt text](https://github.com/mhghani/mhghani.github.io/blob/main/WhatsApp%20Image%202024-11-20%20at%2016.41.59.jpeg)
 
 ![alt text](https://github.com/mhghani/mhghani.github.io/blob/main/WhatsApp%20Image%202024-11-20%20at%2016.41.48.jpeg)
