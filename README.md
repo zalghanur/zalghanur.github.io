@@ -32,10 +32,10 @@ mohammad.ghani2013@gmail.com
 ### Discussions
 <li><b>Extended Kalman Filter: estimations of parameters mass (m), damping (b), and spring (k) for the Mass-Spring-Damper Dynamical Systems</b></li>
 
-<img src="https://github.com/mhghani/mhghani.github.io/blob/main/WhatsApp%20Image%202024-11-20%20at%2016.41.59.jpeg"/>
+<img src="/blob/main/WhatsApp%20Image%202024-11-20%20at%2016.41.59.jpeg"/>
 
-<img src="https://github.com/mhghani/mhghani.github.io/blob/main/WhatsApp%20Image%202024-11-20%20at%2016.41.48.jpeg"/>
+<img src="/blob/main/WhatsApp%20Image%202024-11-20%20at%2016.41.48.jpeg"/>
 
-<img src="https://github.com/mhghani/mhghani.github.io/blob/main/WhatsApp%20Image%202024-11-20%20at%2019.19.08.jpeg"/>
+<img src="/blob/main/WhatsApp%20Image%202024-11-20%20at%2019.19.08.jpeg"/>
 
-<img src="https://github.com/mhghani/mhghani.github.io/blob/main/WhatsApp%20Image%202024-11-20%20at%2019.19.07.jpeg"/>
+<img src="/blob/main/WhatsApp%20Image%202024-11-20%20at%2019.19.07.jpeg"/>
