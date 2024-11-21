@@ -28,3 +28,13 @@ mohammad.ghani2013@gmail.com
 ### Conference
 
 <a href="https://github.com/mhghani/All-Published-Papers/blob/main/638622_1_En_BookFrontmatter_OnlinePDF.pdf" target="_blank">Book Front ICATAM: October 17-18 2024</a>, <a href="https://www.atlantis-press.com/proceedings/icatam-24" target="_blank">Publication</a>
+
+### Discussions
+#### Extended Kalman Filter
+![alt text](https://github.com/mhghani/mhghani.github.io/blob/main/WhatsApp%20Image%202024-11-20%20at%2016.41.59.jpeg)
+
+![alt text](https://github.com/mhghani/mhghani.github.io/blob/main/WhatsApp%20Image%202024-11-20%20at%2016.41.48.jpeg)
+
+![alt text](https://github.com/mhghani/mhghani.github.io/blob/main/WhatsApp%20Image%202024-11-20%20at%2019.19.08.jpeg)
+
+![alt text](https://github.com/mhghani/mhghani.github.io/blob/main/WhatsApp%20Image%202024-11-20%20at%2019.19.07.jpeg)
