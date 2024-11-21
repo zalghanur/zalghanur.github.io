@@ -1,6 +1,6 @@
-#### About
+### About
 Data-Driven Dynamical Systems
-#### Email
+### Email
 mohammad.ghani2013@gmail.com
-#### Personal Websites
-#### Publications
+### Personal Websites
+### Publications
