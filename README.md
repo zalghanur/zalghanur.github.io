@@ -1,4 +1,4 @@
-I'm interested in Data-Driven Dynamical Systems
+I'm a researcher at Universitas Airlangga and interested in Data-Driven Dynamical Systems
 ### Education
 Ph.D. in Applied Mathematics
 ### Email
