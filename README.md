@@ -2,7 +2,7 @@ I'm interested in Data-Driven Dynamical Systems
 ### Education
 Ph.D. in Applied Mathematics
 ### Email
-<a href="mailto:mohammad.ghani2013@gmail.com" target="_blank">mohammad.ghani2013@gmail.com</a>
+mohammad.ghani2013@gmail.com
 ### Personal Websites
 
 <a href="https://www.linkedin.com/in/mohammad-ghani-7b8b0b302/" target="_blank">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=L_c7x9YAAAAJ&hl=id&authuser=3" target="_blank">Google Scholar Author ID: L_c7x9YAAAAJ</a>
