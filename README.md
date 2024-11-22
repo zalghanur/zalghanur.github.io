@@ -42,7 +42,7 @@ mohammad.ghani2013@gmail.com
 17 July 2024: Anisya Safira, Riswanda Ayu Dhiya'ulhaq, Indah Fahmiyah, <b>Mohammad Ghani</b>
 
 <a href="https://www.sciencedirect.com/science/article/pii/S2588933824000189" target="_blank">Kalman filter based on a fractional discrete-time stochastic augmented CoVid-19 model</a><br>
-17 July 2024: <b>Mohammad Ghani</b>, Dwi Rantini, Maryamah
+24 April 2024: <b>Mohammad Ghani</b>, Dwi Rantini, Maryamah
 
 ### Discussion
 #### Estimations of parameters for the Mass-Spring-Damper Dynamical Systems using Extended Kalman Filter (Case 1: for the estimation of mass (m) only, Case 2: for the estimations of mass (m), damping (b), and spring (k))
