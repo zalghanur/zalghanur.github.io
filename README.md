@@ -31,4 +31,13 @@ mohammad.ghani2013@gmail.com
 ### Conference
 <a href="https://github.com/mhghani/All-Published-Papers/blob/main/638622_1_En_BookFrontmatter_OnlinePDF.pdf" target="_blank">Book Front ICATAM: October 17-18 2024</a>, <a href="https://www.atlantis-press.com/proceedings/icatam-24" target="_blank">Publication</a>
 
+### Discussion
+#### Estimations of parameters for the Mass-Spring-Damper Dynamical Systems using Extended Kalman Filter (Case 1: for the estimation of mass (m) only, Case 2: for the estimations of mass (m), damping (b), and spring (k))
+
+![WhatsApp Image 2024-11-20 at 16 41 59](https://github.com/user-attachments/assets/7fb490d6-c71b-4a1b-a2fc-0cd1792ef845)
+
+![WhatsApp Image 2024-11-20 at 16 41 48](https://github.com/user-attachments/assets/db8efbd8-8bba-4429-bd8f-d692cbc3e330)
+
 ![WhatsApp Image 2024-11-20 at 19 19 08](https://github.com/user-attachments/assets/84242c33-34e5-4822-b7bf-935ecd432659)
+
+![WhatsApp Image 2024-11-20 at 19 19 07](https://github.com/user-attachments/assets/7213d6aa-5eec-4053-bd40-87e3ec168e72)
