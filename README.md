@@ -29,7 +29,7 @@ mohammad.ghani2013@gmail.com
 <a href="https://github.com/mghaniunair/Certificate/blob/main/Certificate_MEX_Recognised.pdf" target="_blank">MethodsX: May-August 2024</a>
 
 ### Conference
-<a href="https://github.com/mhghani/All-Published-Papers/blob/main/638622_1_En_BookFrontmatter_OnlinePDF.pdf" target="_blank">Book Front ICATAM: October 17-18 2024</a>, <a href="https://www.atlantis-press.com/proceedings/icatam-24" target="_blank">Publication</a>
+<a href="https://github.com/mhghani/All-Published-Papers/blob/main/638622_1_En_BookFrontmatter_OnlinePDF.pdf" target="_blank">Book Front ICATAM: October 17-18 2024</a>, <a href="https://www.atlantis-press.com/proceedings/icatam-24" target="_blank">Proceedings</a>
 
 ### Publication
 <a href="https://www.sciencedirect.com/science/article/pii/S2215016124004825" target="_blank">Ocean wave prediction using Long Short-Term Memory (LSTM) and Extreme Gradient Boosting (XGBoost) in Tuban Regency for fisherman safety</a><br>
