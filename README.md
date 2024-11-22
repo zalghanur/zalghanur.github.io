@@ -41,3 +41,9 @@ mohammad.ghani2013@gmail.com
 ![WhatsApp Image 2024-11-20 at 19 19 08](https://github.com/user-attachments/assets/84242c33-34e5-4822-b7bf-935ecd432659)
 
 ![WhatsApp Image 2024-11-20 at 19 19 07](https://github.com/user-attachments/assets/7213d6aa-5eec-4053-bd40-87e3ec168e72)
+
+The results of parameter estimation using the Extended Kalman Filter for the Mass-Spring system. The more parameters are estimated, the different ways of determining the initial value of the parameters.
+
+For the first case (only the mass parameter is estimated): when the force value (F = 0) everything is fine when estimating the mass parameter, but when (F is not equal to zero, say F = 1) then it can cause oscillations over time in estimating the mass parameter.
+
+However, on the contrary for the second case when estimating three parameters, namely mass, damping, and spring (when the force value F = 50), everything is still in good condition (although at the beginning there is an unstable pattern but in the end it is fine).
