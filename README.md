@@ -30,3 +30,5 @@ mohammad.ghani2013@gmail.com
 
 ### Conference
 <a href="https://github.com/mhghani/All-Published-Papers/blob/main/638622_1_En_BookFrontmatter_OnlinePDF.pdf" target="_blank">Book Front ICATAM: October 17-18 2024</a>, <a href="https://www.atlantis-press.com/proceedings/icatam-24" target="_blank">Publication</a>
+
+![WhatsApp Image 2024-11-20 at 19 19 08](https://github.com/user-attachments/assets/84242c33-34e5-4822-b7bf-935ecd432659)
