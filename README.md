@@ -31,6 +31,19 @@ mohammad.ghani2013@gmail.com
 ### Conference
 <a href="https://github.com/mhghani/All-Published-Papers/blob/main/638622_1_En_BookFrontmatter_OnlinePDF.pdf" target="_blank">Book Front ICATAM: October 17-18 2024</a>, <a href="https://www.atlantis-press.com/proceedings/icatam-24" target="_blank">Publication</a>
 
+### Publication
+<a href="https://www.sciencedirect.com/science/article/pii/S2215016124004825" target="_blank">Ocean wave prediction using Long Short-Term Memory (LSTM) and Extreme Gradient Boosting (XGBoost) in Tuban Regency for fisherman safety</a><br>
+2 November 2024: Riswanda Ayu Dhiya'ulhaq, Anisya Safira, Indah Fahmiyah, <b>Mohammad Ghani</b>
+
+<a href="https://www.atlantis-press.com/proceedings/icatam-24/126004732" target="_blank">Forecasting The Number of Foreign Tourism Visits to Indonesia using Seasonal Autoregressive Integrated Moving Average (SARIMA) and Holt-Winters Approach</a><br>
+1 November 2024: Indah Fahmiyah, Lidya Septi Andini, <b>Mohammad Ghani</b>
+
+<a href="https://www.sciencedirect.com/science/article/pii/S2215016124003194" target="_blank">Spatial impact on inflation of Java Island prediction using Autoregressive Integrated Moving Average (ARIMA) and Generalized Space-Time ARIMA (GSTARIMA)</a><br>
+17 July 2024: Anisya Safira, Riswanda Ayu Dhiya'ulhaq, Indah Fahmiyah, <b>Mohammad Ghani</b>
+
+<a href="https://www.sciencedirect.com/science/article/pii/S2588933824000189" target="_blank">Kalman filter based on a fractional discrete-time stochastic augmented CoVid-19 model</a><br>
+17 July 2024: <b>Mohammad Ghani</b>, Dwi Rantini, Maryamah
+
 ### Discussion
 #### Estimations of parameters for the Mass-Spring-Damper Dynamical Systems using Extended Kalman Filter (Case 1: for the estimation of mass (m) only, Case 2: for the estimations of mass (m), damping (b), and spring (k))
 
