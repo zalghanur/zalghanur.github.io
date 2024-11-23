@@ -59,8 +59,8 @@ mohammad.ghani2013@gmail.com
 
 #### Estimations of parameters for the Mass-Spring-Damper Dynamical Systems using Extended Kalman Filter (Case 1: for the estimation of mass (m) only, Case 2: for the estimations of mass (m), damping (b), and spring (k))
 
-$\dot{x}_1=x_2$,<br>
-$\dot{x}_2=-(k/m)x_1 -(b/m)x_2+(1/m)F(t)$,<br>
+<img src="https://latex.codecogs.com/svg.image?\left\{\begin{matrix}&\dot{x}_1=x_2,\\&\dot{x}_2=-(k/m)\cdot&space;x_1-(b/m)\cdot&space;x_2&plus;(1/m)\cdot&space;F(t).\end{matrix}\right." />
+<img src="https://latex.codecogs.com/svg.image?\alpha:recovery\;rate&space;" />
 where $k$ is the spring, $b$ is the damper, and $m$ is the mass. $F$ is the force and assumed to be constant.
 
 ![WhatsApp Image 2024-11-20 at 16 41 59](https://github.com/user-attachments/assets/7fb490d6-c71b-4a1b-a2fc-0cd1792ef845)
