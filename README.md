@@ -2,6 +2,8 @@ I'm a researcher at Universitas Airlangga<br>
 I'm interested in Data-Driven Dynamical Systems<br>
 Ph.D. in Applied Mathematics
 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+
 ### Email
 mohammad.ghani2013@gmail.com
 
