@@ -47,8 +47,8 @@ mohammad.ghani2013@gmail.com
 ### Discussion
 #### Estimation of parameters infection rate and recovery rate for the SIR model using Extended Kalman Filter
 
-<img src="https://latex.codecogs.com/svg.image?\left\{\begin{matrix}&\dot{S}=-\beta\cdot&space;S\cdot&space;I,\\&\dot{I}=\beta\cdot&space;S\cdot&space;I-\alpha\cdot&space;I,\\&\dot{R}=\alpha\cdot&space;I.\end{matrix}\right." />
-<img src="https://latex.codecogs.com/svg.image?\beta:infection\;rate&space;" />
+<img src="https://latex.codecogs.com/svg.image?\left\{\begin{matrix}&\dot{S}=-\beta\cdot&space;S\cdot&space;I,\\&\dot{I}=\beta\cdot&space;S\cdot&space;I-\alpha\cdot&space;I,\\&\dot{R}=\alpha\cdot&space;I.\end{matrix}\right." /><br>
+<img src="https://latex.codecogs.com/svg.image?\beta:infection\;rate&space;" /><br>
 <img src="https://latex.codecogs.com/svg.image?\alpha:recovery\;rate&space;" />
 
 ![SIR_model](https://github.com/user-attachments/assets/d1ee1a1a-14e9-4edb-930b-32619557072a)
