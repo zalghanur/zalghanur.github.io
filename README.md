@@ -63,7 +63,7 @@ mohammad.ghani2013@gmail.com
 <img src="https://latex.codecogs.com/svg.image?k:spring&space;" /><br>
 <img src="https://latex.codecogs.com/svg.image?b:damper&space;" /><br>
 <img src="https://latex.codecogs.com/svg.image?m:mass&space;" /><br>
-<img src="https://latex.codecogs.com/svg.image?F:force\; and\; assumed\;to\;be\;constant&space;" /><br>
+<img src="https://latex.codecogs.com/svg.image?F:force\;and\;assumed\;to\;be\;constant&space;" />
 
 ![WhatsApp Image 2024-11-20 at 16 41 59](https://github.com/user-attachments/assets/7fb490d6-c71b-4a1b-a2fc-0cd1792ef845)
 
