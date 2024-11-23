@@ -60,7 +60,7 @@ where $\beta$ is the infection rate and $\alpha$ is the recovery rate.
 
 #### Estimations of parameters for the Mass-Spring-Damper Dynamical Systems using Extended Kalman Filter (Case 1: for the estimation of mass (m) only, Case 2: for the estimations of mass (m), damping (b), and spring (k))
 
-$$\dot{x}_1=x_2$$,<br>
+$\dot{x}_1=x_2$,<br>
 $\dot{x}_2=-(k/m)x_1 -(b/m)x_2+(1/m)F(t)$,<br>
 where $k$ is the spring, $b$ is the damper, and $m$ is the mass. $F$ is the force and assumed to be constant.
 
