@@ -47,6 +47,11 @@ mohammad.ghani2013@gmail.com
 ### Discussion
 #### Estimation of parameters infection rate and recovery rate for the SIR model using Extended Kalman Filter
 
+$\dot{S}=-\beta SI$,<br>
+$\dot{I}=\beta SI-\alpha I$,<br>
+$\dot{R}=\alpha I$,<br>
+where $\beta$ is the infection rate and $\alpha$ is the recovery rate.
+
 ![SIR_model](https://github.com/user-attachments/assets/d1ee1a1a-14e9-4edb-930b-32619557072a)
 
 ![estimate_state_SIR](https://github.com/user-attachments/assets/e2b32176-4f4d-475c-9b12-01639872018b)
@@ -54,6 +59,10 @@ mohammad.ghani2013@gmail.com
 ![estimate_parameter_SIR](https://github.com/user-attachments/assets/df3f49b2-a6f9-4afe-b11d-b9dad149446b)
 
 #### Estimations of parameters for the Mass-Spring-Damper Dynamical Systems using Extended Kalman Filter (Case 1: for the estimation of mass (m) only, Case 2: for the estimations of mass (m), damping (b), and spring (k))
+
+$\dot{x}_1=x_2$,<br>
+$\dot{x}_2=-(k/m)x_1 -(b/m)x_2+(1/m)F(t)$,<br>
+where $k$ is the spring, $b$ is the damper, and $m$ is the mass. $F$ is the force and assumed to be constant.
 
 ![WhatsApp Image 2024-11-20 at 16 41 59](https://github.com/user-attachments/assets/7fb490d6-c71b-4a1b-a2fc-0cd1792ef845)
 
