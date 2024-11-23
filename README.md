@@ -2,8 +2,6 @@ I'm a researcher at Universitas Airlangga<br>
 I'm interested in Data-Driven Dynamical Systems<br>
 Ph.D. in Applied Mathematics
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
-
 ### Email
 mohammad.ghani2013@gmail.com
 
@@ -49,10 +47,9 @@ mohammad.ghani2013@gmail.com
 ### Discussion
 #### Estimation of parameters infection rate and recovery rate for the SIR model using Extended Kalman Filter
 
-$\dot{S}=-\beta SI$,<br>
-$\dot{I}=\beta SI-\alpha I$,<br>
-$\dot{R}=\alpha I$,<br>
-where $\beta$ is the infection rate and $\alpha$ is the recovery rate.
+<img src="https://latex.codecogs.com/svg.image?\left\{\begin{matrix}&\dot{S}=-\beta\cdot&space;S\cdot&space;I,\\&\dot{I}=\beta\cdot&space;S\cdot&space;I-\alpha\cdot&space;I,\\&\dot{R}=\alpha\cdot&space;I.\end{matrix}\right." />
+<img src="https://latex.codecogs.com/svg.image?\beta:infection\;rate&space;" />
+<img src="https://latex.codecogs.com/svg.image?\alpha:recovery\;rate&space;" />
 
 ![SIR_model](https://github.com/user-attachments/assets/d1ee1a1a-14e9-4edb-930b-32619557072a)
 
