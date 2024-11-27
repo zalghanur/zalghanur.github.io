@@ -74,7 +74,7 @@ Issued by Elsevier · May 2024<br>
 <b>Main part of fminsearch</b>: fminsearch(@error_sum_of_squares_fminsearch,param)<br>
 <b>Main part of lsqcurvefit</b>: lsqcurvefit(@sir_rhs_lsqcurvefit,param,tspan,data)<br>
 <li>param is the parameters of infection rate and recovery rate</li>
-<li>tspan is time (number of data)</li>
+<li>tspan is time (number of data)</li><br><br>
 
 The data is based on the article entitled "On parameter estimation approaches for predicting disease transmission through optimization, deep learning and statistical inference methods":<br>
 data=[3;6;25;73;222;294;258;237;191;125;69;27;11;4] and [S0,I0,R0]=[760,3,0]
