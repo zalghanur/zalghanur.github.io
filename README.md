@@ -65,6 +65,10 @@ Issued by Elsevier · May 2024<br>
 <img src="https://latex.codecogs.com/svg.image?\beta=1:infection\;rate&space;" /><br>
 <img src="https://latex.codecogs.com/svg.image?\alpha=0.2:recovery\;rate&space;" />
 
+<b>Estimated parameters by fminsearch and lsqcurvefit</b>:<br>
+<img src="https://latex.codecogs.com/svg.image?\beta=1.6926:infection\;rate&space;" /><br>
+<img src="https://latex.codecogs.com/svg.image?\alpha=0.4485:recovery\;rate&space;" />
+
 <b>Main part of fminsearch</b>: fminsearch(@error_sum_of_squares_fminsearch,param)<br>
 <b>Main part of lsqcurvefit</b>: lsqcurvefit(@sir_rhs_lsqcurvefit,param,tspan,data)<br>
 <li>param is the parameters of infection rate and recovery rate</li>
