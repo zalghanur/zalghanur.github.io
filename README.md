@@ -60,6 +60,7 @@ Issued by Elsevier · May 2024<br>
 #### fminsearch VS lsqcurvefit to estimate the parameters of infection rate and recovery rate for the SIR model
 
 <img src="https://latex.codecogs.com/svg.image?\left\{\begin{matrix}&\dot{S}=-\beta\cdot&space;S\cdot&space;I,\\&\dot{I}=\beta\cdot&space;S\cdot&space;I-\alpha\cdot&space;I,\\&\dot{R}=\alpha\cdot&space;I.\end{matrix}\right." /><br>
+<b>Initial values of parameters</b>:<br>
 <img src="https://latex.codecogs.com/svg.image?\beta=1:infection\;rate&space;" /><br>
 <img src="https://latex.codecogs.com/svg.image?\alpha=0.2:recovery\;rate&space;" />
 
