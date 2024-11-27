@@ -22,12 +22,12 @@ mohammad.ghani2013@gmail.com
 
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57204973352" target="_blank">Scopus Author ID: 57204973352</a>
 
-### E-Book
+### E-Books
 <a href="https://play.google.com/store/books/details?id=zlatEAAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=zlatEAAAQBAJ</a>
 
 <a href="https://play.google.com/store/books/details?id=BcUYEQAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=BcUYEQAAQBAJ</a>
 
-### Reviewer
+### Reviewers
 <b>Invited Reviewer of MethodsX</b><br>
 Issued by Elsevier · Oct 2024<br>
 
@@ -40,10 +40,10 @@ Issued by World Scientific · May 2024<br>
 <b>Invited Reviewer of MethodsX</b><br>
 Issued by Elsevier · May 2024<br>
 
-### Conference
+### Conferences
 <a href="https://github.com/mhghani/All-Published-Papers/blob/main/638622_1_En_BookFrontmatter_OnlinePDF.pdf" target="_blank">Book Front ICATAM: October 17-18 2024</a>, <a href="https://www.atlantis-press.com/proceedings/icatam-24" target="_blank">Proceedings</a>
 
-### Publication
+### Publications
 <a href="https://www.sciencedirect.com/science/article/pii/S2215016124004825" target="_blank">Ocean wave prediction using Long Short-Term Memory (LSTM) and Extreme Gradient Boosting (XGBoost) in Tuban Regency for fisherman safety</a><br>
 2 November 2024: Riswanda Ayu Dhiya'ulhaq, Anisya Safira, Indah Fahmiyah, <b>Mohammad Ghani</b>
 
@@ -56,7 +56,11 @@ Issued by Elsevier · May 2024<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S2588933824000189" target="_blank">Kalman filter based on a fractional discrete-time stochastic augmented CoVid-19 model</a><br>
 24 April 2024: <b>Mohammad Ghani</b>, Dwi Rantini, Maryamah
 
-### Discussion
+### Discussions
+#### fminsearch VS lsqcurvefit to estimate the parameters of infection rate and recovery rate for the SIR model
+
+![WORKFLOW_001](https://github.com/user-attachments/assets/89371969-abdc-46a9-b697-9a3dc5e0b85b)
+
 #### Estimation of parameters infection rate and recovery rate for the SIR model using Extended Kalman Filter
 
 ![WORKFLOW_001](https://github.com/user-attachments/assets/89371969-abdc-46a9-b697-9a3dc5e0b85b)
