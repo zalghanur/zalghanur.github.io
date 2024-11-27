@@ -76,6 +76,9 @@ Issued by Elsevier · May 2024<br>
 <li>param is the parameters of infection rate and recovery rate</li>
 <li>tspan is time (number of data)</li>
 
+The data is based on the article entitled "On parameter estimation approaches for predicting disease transmission through optimization, deep learning and statistical inference methods":<br>
+data=[3;6;25;73;222;294;258;237;191;125;69;27;11;4] and [S0,I0,R0]=[760,3,0]
+
 #### Estimation of parameters infection rate and recovery rate for the SIR model using Extended Kalman Filter
 
 ![WORKFLOW_001](https://github.com/user-attachments/assets/89371969-abdc-46a9-b697-9a3dc5e0b85b)
