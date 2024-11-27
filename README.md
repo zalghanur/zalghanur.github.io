@@ -65,6 +65,8 @@ Issued by Elsevier · May 2024<br>
 <img src="https://latex.codecogs.com/svg.image?\beta=1:infection\;rate&space;" /><br>
 <img src="https://latex.codecogs.com/svg.image?\alpha=0.2:recovery\;rate&space;" />
 
+![fminsearch lsqcurvefit](https://github.com/user-attachments/assets/fb20a68f-4a80-4392-b9b8-801122dc6796)
+
 <b>Estimated parameters by fminsearch and lsqcurvefit</b>:<br>
 <img src="https://latex.codecogs.com/svg.image?\beta=1.6926:infection\;rate&space;" /><br>
 <img src="https://latex.codecogs.com/svg.image?\alpha=0.4485:recovery\;rate&space;" />
