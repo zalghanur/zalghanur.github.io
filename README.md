@@ -27,6 +27,9 @@ mohammad.ghani2013@gmail.com
 
 <a href="https://play.google.com/store/books/details?id=BcUYEQAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=BcUYEQAAQBAJ</a>
 
+### References
+<a href="https://rpubs.com/KNightingale/1064580" target="_blank">MCMC samplers used in Bayesian statistics</a>
+
 ### Reviewers
 <b>Invited Reviewer of MethodsX</b><br>
 Issued by Elsevier · Oct 2024<br>
