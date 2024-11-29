@@ -57,6 +57,9 @@ Issued by Elsevier · May 2024<br>
 24 April 2024: <b>Mohammad Ghani</b>, Dwi Rantini, Maryamah
 
 ### Discussions
+#### Estimation of Angle of Velocities and Positions for ARM model using Extended Kalman Filter 
+![EKF_ARM_Model_2](https://github.com/user-attachments/assets/f795f8e3-36cb-4df5-b97d-14b9528d063d)
+
 #### fminsearch VS lsqcurvefit to estimate the parameters of infection rate and recovery rate for the SIR model
 
 <img src="https://latex.codecogs.com/svg.image?\left\{\begin{matrix}&\dot{S}=-\beta\cdot&space;S\cdot&space;I,\\&\dot{I}=\beta\cdot&space;S\cdot&space;I-\alpha\cdot&space;I,\\&\dot{R}=\alpha\cdot&space;I.\end{matrix}\right." /><br>
