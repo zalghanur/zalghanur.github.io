@@ -59,13 +59,14 @@ Issued by Elsevier · May 2024<br>
 ### Discussions
 #### Estimation of Angle of Velocities and Positions for ARM model using Extended Kalman Filter 
 ![EKF_ARM_Model_2](https://github.com/user-attachments/assets/f795f8e3-36cb-4df5-b97d-14b9528d063d)
-<img src="https://latex.codecogs.com/svg.image?\tau_{\theta_1}=\tau_{\theta_2}=0.5*\cos(t)&space;" /><br>
+
 ARM model is shown below:<br>
 <img src="https://latex.codecogs.com/svg.image?M(\theta)\ddot{\theta}+C(\theta,\dot{\theta})\dot{\theta}+B\dot{\theta}=\tau&space;" /><br>
 <img src="https://latex.codecogs.com/svg.image?\theta=[\theta_1;\theta_2],\;\dot{\theta}=[\dot{\theta}_1;\dot{\theta}_2]=[\omega_1;\omega_2],\;\ddot{\theta}=[\dot{\omega}_1;\dot{\omega}_2]&space;" /><br>
 <img src="https://latex.codecogs.com/svg.image?M=[\alpha+2\beta\cos(\theta_2)\;\;\;\delta+\beta\cos(\theta_2);\delta+\beta\cos(\theta_2)\;\;\;\delta]&space;" /><br>
 <img src="https://latex.codecogs.com/svg.image?C(\theta,\dot{\theta})=[-\beta\dot{\theta}_2\sin(\theta_2)\;\;\;-\beta(\dot{\theta}_1+\dot{\theta}_2)\sin(\theta_2);\beta\dot{\theta}_1\sin(\theta_2)\;\;\;0]&space;" /><br>
 <img src="https://latex.codecogs.com/svg.image?B=[b_{11}\;\;\;b_{12};b_{21}\;\;\;b_{22}]&space;" /><br>
+<img src="https://latex.codecogs.com/svg.image?\tau_{\theta_1}=\tau_{\theta_2}=0.5*\cos(t)&space;" /><br>
 
 #### fminsearch VS lsqcurvefit to estimate the parameters of infection rate and recovery rate for the SIR model
 
