@@ -63,6 +63,7 @@ Issued by Elsevier · May 2024<br>
 ARM model is shown below:<br>
 <img src="https://latex.codecogs.com/svg.image?M(\theta)\ddot{\theta}+C(\theta,\dot{\theta})\dot{\theta}+B\dot{\theta}=\tau&space;" /><br>
 <img src="https://latex.codecogs.com/svg.image?\theta=[\theta_1;\theta_2],\;\dot{\theta}=[\dot{\theta}_1;\dot{\theta}_2]=[\omega_1;\omega_2],\;\ddot{\theta}=[\dot{\omega}_1;\dot{\omega}_2]&space;" /><br>
+<img src="https://latex.codecogs.com/svg.image?M=[\alpha+2\beta\;cos(\theta_2)\;\;\;\delta+\beta\;cos(\theta_2);\delta+\beta\;cos(\theta_2)\;\;\;\delta]&space;" /><br>
 
 #### fminsearch VS lsqcurvefit to estimate the parameters of infection rate and recovery rate for the SIR model
 
