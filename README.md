@@ -58,6 +58,9 @@ Issued by Elsevier · May 2024<br>
 
 ### Discussions
 #### Estimation of Angle Velocities and Positions for ARM model (Shoulder joint and Elbow joint) using Extended Kalman Filter 
+![Screenshot 2024-12-04 172437](https://github.com/user-attachments/assets/38891b77-9d20-4bb2-bdeb-60a1853396bb)
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0208521613000077/" target="_blank">Source</a>
+
 ![EKF_ARM_Model_2](https://github.com/user-attachments/assets/f795f8e3-36cb-4df5-b97d-14b9528d063d)
 
 ARM model is shown below:<br>
