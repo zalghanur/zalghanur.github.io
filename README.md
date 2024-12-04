@@ -57,7 +57,7 @@ Issued by Elsevier · May 2024<br>
 24 April 2024: <b>Mohammad Ghani</b>, Dwi Rantini, Maryamah
 
 ### Discussions
-#### Estimation of Angle of Velocities and Positions for ARM model using Extended Kalman Filter 
+#### Estimation of Angle Velocities and Positions for ARM model using Extended Kalman Filter 
 ![EKF_ARM_Model_2](https://github.com/user-attachments/assets/f795f8e3-36cb-4df5-b97d-14b9528d063d)
 
 ARM model is shown below:<br>
