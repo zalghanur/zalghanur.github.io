@@ -69,7 +69,9 @@ ARM model is shown below:<br>
 <img src="https://latex.codecogs.com/svg.image?C(\theta,\dot{\theta})=[-\beta\dot{\theta}_2\sin(\theta_2)\;\;\;-\beta(\dot{\theta}_1+\dot{\theta}_2)\sin(\theta_2);\beta\dot{\theta}_1\sin(\theta_2)\;\;\;0]&space;" /><br>
 <img src="https://latex.codecogs.com/svg.image?B=[b_{11}\;\;\;b_{12};b_{21}\;\;\;b_{22}]&space;" /><br>
 <img src="https://latex.codecogs.com/svg.image?\tau_{\theta_1}=\tau_{\theta_2}=0.5*\cos(t)&space;" /><br>
-<img src="https://latex.codecogs.com/svg.image?\alpha= l_1 + l_2 + m_1 L_g1 + m_2 (L_g1 + L_g2)&space;" /><br>
+<img src="https://latex.codecogs.com/svg.image?\alpha=l_1+l_2+m_1L_{g1}^2+m_2(L_{1}^2+L_{g2}^2)&space;" /><br>
+<img src="https://latex.codecogs.com/svg.image?\beta=m_2L_{1}L_{g2}&space;" /><br>
+<img src="https://latex.codecogs.com/svg.image?\delta=l_2+m_2L_{g2}^2&space;" /><br>
 
 #### fminsearch VS lsqcurvefit to estimate the parameters of infection rate and recovery rate for the SIR model
 
