@@ -6,13 +6,7 @@ Ph.D. in Applied Mathematics
 mohammad.ghani@ftmm.unair.ac.id
 
 ### Personal Websites
-<a href="https://www.linkedin.com/in/mohammad-ghani-7b8b0b302/" target="_blank">LinkedIn</a>
-
-<a href="https://rpubs.com/mghani" target="_blank">RPubs</a>
-
-<a href="https://sciprofiles.com/profile/mohammadghani" target="_blank">SciProfiles</a>
-
-<a href="https://scholar.unair.ac.id/en/persons/mohammad-ghani" target="_blank">Scholar UNAIR</a>
+<a href="https://www.linkedin.com/in/mohammad-ghani-7b8b0b302/" target="_blank">LinkedIn</a> · <a href="https://rpubs.com/mghani" target="_blank">RPubs</a> · <a href="https://sciprofiles.com/profile/mohammadghani" target="_blank">SciProfiles</a> · <a href="https://scholar.unair.ac.id/en/persons/mohammad-ghani" target="_blank">Scholar UNAIR</a>
 
 <a href="https://scholar.google.com/citations?user=L_c7x9YAAAAJ&hl=id&authuser=3" target="_blank">Google Scholar Author ID: L_c7x9YAAAAJ</a>
 
@@ -45,16 +39,16 @@ Issued by Elsevier · May 2024<br>
 
 ### Publications
 <a href="https://www.sciencedirect.com/science/article/pii/S2215016124004825" target="_blank">Ocean wave prediction using Long Short-Term Memory (LSTM) and Extreme Gradient Boosting (XGBoost) in Tuban Regency for fisherman safety</a><br>
-2 November 2024: Riswanda Ayu Dhiya'ulhaq, Anisya Safira, Indah Fahmiyah, <b>Mohammad Ghani</b>
+2 November 2024 · Riswanda Ayu Dhiya'ulhaq, Anisya Safira, Indah Fahmiyah, <b>Mohammad Ghani</b>
 
 <a href="https://www.atlantis-press.com/proceedings/icatam-24/126004732" target="_blank">Forecasting The Number of Foreign Tourism Visits to Indonesia using Seasonal Autoregressive Integrated Moving Average (SARIMA) and Holt-Winters Approach</a><br>
-1 November 2024: Indah Fahmiyah, Lidya Septi Andini, <b>Mohammad Ghani</b>
+1 November 2024 · Indah Fahmiyah, Lidya Septi Andini, <b>Mohammad Ghani</b>
 
 <a href="https://www.sciencedirect.com/science/article/pii/S2215016124003194" target="_blank">Spatial impact on inflation of Java Island prediction using Autoregressive Integrated Moving Average (ARIMA) and Generalized Space-Time ARIMA (GSTARIMA)</a><br>
-17 July 2024: Anisya Safira, Riswanda Ayu Dhiya'ulhaq, Indah Fahmiyah, <b>Mohammad Ghani</b>
+17 July 2024 · Anisya Safira, Riswanda Ayu Dhiya'ulhaq, Indah Fahmiyah, <b>Mohammad Ghani</b>
 
 <a href="https://www.sciencedirect.com/science/article/pii/S2588933824000189" target="_blank">Kalman filter based on a fractional discrete-time stochastic augmented CoVid-19 model</a><br>
-24 April 2024: <b>Mohammad Ghani</b>, Dwi Rantini, Maryamah
+24 April 2024 · <b>Mohammad Ghani</b>, Dwi Rantini, Maryamah
 
 ### Discussions
 #### Estimation of Angle Velocities and Positions for ARM model (Shoulder joint and Elbow joint) using Extended Kalman Filter 
