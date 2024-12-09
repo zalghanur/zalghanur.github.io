@@ -61,7 +61,7 @@ Issued by World Scientific · May 2024<br>
 Issued by Elsevier · May 2024<br>
 
 ### Conferences
-<a href="https://github.com/mhghani/All-Published-Papers/blob/main/638622_1_En_BookFrontmatter_OnlinePDF.pdf" target="_blank">Book Front ICATAM: October 17-18 2024</a> · <a href="https://www.atlantis-press.com/proceedings/icatam-24" target="_blank">Proceedings</a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7258033638108225536/" target="_blank">Book Front ICATAM: October 17-18 2024</a> · <a href="https://www.atlantis-press.com/proceedings/icatam-24" target="_blank">Proceedings</a>
 
 ### Publications
 <a href="https://www.sciencedirect.com/science/article/pii/S2215016124004825" target="_blank">Ocean wave prediction using Long Short-Term Memory (LSTM) and Extreme Gradient Boosting (XGBoost) in Tuban Regency for fisherman safety</a><br>
