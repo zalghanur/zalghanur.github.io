@@ -16,32 +16,6 @@ mohammad.ghani@ftmm.unair.ac.id
 
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57204973352" target="_blank">Scopus Author ID: 57204973352</a>
 
-### Topic of Concern
-<b>SINDy</b><br>
-Paper:<br>
-<a href="https://www.pnas.org/doi/full/10.1073/pnas.1517384113" target="_blank">https://www.pnas.org/doi/full/10.1073/pnas.1517384113</a><br>
-Youtube:<br>
-<a href="https://www.youtube.com/watch?v=NxAn0oglMVw" target="_blank">https://www.youtube.com/watch?v=NxAn0oglMVw</a><br>
-<a href="https://www.youtube.com/watch?v=8-hoWTJwmrE" target="_blank">https://www.youtube.com/watch?v=8-hoWTJwmrE</a><br>
-
-<b>SINDy-PI</b><br>
-Code:<br>
-<a href="https://github.com/dynamicslab/pysindy" target="_blank">https://github.com/dynamicslab/pysindy (Python)</a> and <a href="https://github.com/dynamicslab/SINDy-PI" target="_blank">https://github.com/dynamicslab/SINDy-PI (Matlab)</a><br>
-Paper:<br>
-<a href="https://royalsocietypublishing.org/doi/10.1098/rspa.2020.0279" target="_blank">https://royalsocietypublishing.org/doi/10.1098/rspa.2020.0279</a><br>
-Youtube:<br>
-<a href="https://www.youtube.com/watch?v=sP8JXF9_wAs" target="_blank">https://www.youtube.com/watch?v=sP8JXF9_wAs</a><br>
-
-<b>WyNDA</b><br>
-Code:<br>
-<a href="https://github.com/agushasan/discovery" target="_blank">https://github.com/agushasan/discovery (Matlab)</a><br>
-Paper:<br>
-<a href="https://www.sciencedirect.com/science/article/pii/S2215016124000797" target="_blank">https://www.sciencedirect.com/science/article/pii/S2215016124000797</a><br>
-<a href="https://ieeexplore.ieee.org/document/10671281" target="_blank">https://ieeexplore.ieee.org/document/10671281</a><br>
-
-<b>Physics Informed Neural Network (PINN)</b><br>
-<a href="https://drive.google.com/drive/folders/1BCGynuSMPUIRpZsKAEOIlcf6uYz8DikM?usp=sharing" target="_blank">https://drive.google.com/drive/folders/1BCGynuSMPUIRpZsKAEOIlcf6uYz8DikM?usp=sharing</a><br>
-
 ### E-Books
 <a href="https://play.google.com/store/books/details?id=zlatEAAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=zlatEAAAQBAJ</a>
 
