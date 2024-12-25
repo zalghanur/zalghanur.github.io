@@ -129,4 +129,4 @@ data=[3;6;25;73;222;294;258;237;191;125;69;27;11;4] and [S0,I0,R0]=[760,3,0]
 
 <a href="https://statsandr.com/blog/correlation-coefficient-and-correlation-test-in-r/" target="_blank">Correlation coefficient and correlation test in R</a>
 
-<a href="https://mghani24.wordpress.com/" target="_blank">Topic of Concern</a>
+<a href="https://mghaniunair.github.io/" target="_blank">Topic of Concern</a>
