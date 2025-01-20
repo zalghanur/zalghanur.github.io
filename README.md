@@ -69,6 +69,8 @@ ARM model is shown below:<br>
 <img src="https://latex.codecogs.com/svg.image?\beta=m_2L_{1}L_{g2}&space;" /><br>
 <img src="https://latex.codecogs.com/svg.image?\delta=l_2+m_2L_{g2}^2&space;" /><br>
 
+<a href="https://github.com/mghaniunair/ARM-Model-MAPLE/blob/main/Calculation%20using%20Maple.pdf" target="_blank">Calculation using MAPLE</a><br>
+
 #### fminsearch VS lsqcurvefit to estimate the parameters of infection rate and recovery rate for the SIR model
 
 <img src="https://latex.codecogs.com/svg.image?\left\{\begin{matrix}&\dot{S}=-\beta\cdot&space;S\cdot&space;I,\\&\dot{I}=\beta\cdot&space;S\cdot&space;I-\alpha\cdot&space;I,\\&\dot{R}=\alpha\cdot&space;I.\end{matrix}\right." /><br>
