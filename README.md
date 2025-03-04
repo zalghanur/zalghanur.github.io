@@ -24,6 +24,15 @@ mohammad.ghani@ftmm.unair.ac.id
 <a href="https://play.google.com/store/books/details?id=dDU5EQAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=dDU5EQAAQBAJ</a>
 
 ### Reviewers
+<b>Invited Reviewer of Applications of Mathematics</b><br>
+Issued by Springer · March 2025<br>
+
+<b>Invited Reviewer of MethodsX</b><br>
+Issued by Elsevier · March 2025<br>
+
+<b>Invited Reviewer of Acta Mechanica et Automatica</b><br>
+Issued by Sciendo · March 2025<br>
+
 <b>Invited Reviewer of MethodsX</b><br>
 Issued by Elsevier · Oct 2024<br>
 
