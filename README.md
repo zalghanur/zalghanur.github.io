@@ -51,6 +51,9 @@ Issued by Elsevier · May 2024<br>
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7258033638108225536/" target="_blank">Book Front ICATAM: October 17-18 2024</a> · <a href="https://www.atlantis-press.com/proceedings/icatam-24" target="_blank">Proceedings</a>
 
 ### Publications
+<a href="https://www.sciencedirect.com/science/article/pii/S221501612500127X" target="_blank">Diphtheria transmission prediction by Extended Kalman Filter</a><br>
+22 March 2025 · <b>Mohammad Ghani</b>
+
 <a href="https://www.sciencedirect.com/science/article/pii/S2215016124004825" target="_blank">Ocean wave prediction using Long Short-Term Memory (LSTM) and Extreme Gradient Boosting (XGBoost) in Tuban Regency for fisherman safety</a><br>
 2 November 2024 · Riswanda Ayu Dhiya'ulhaq, Anisya Safira, Indah Fahmiyah, <b>Mohammad Ghani</b>
 
