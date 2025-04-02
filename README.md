@@ -16,8 +16,6 @@ mohammad.ghani@ftmm.unair.ac.id
 
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57204973352" target="_blank">Scopus Author ID: 57204973352</a>
 
-<a href="https://www.adscientificindex.com/scientist/mohammad-ghani/6149193" target="_blank">Scientific Index ID: 6149193</a>
-
 ### E-Books
 <a href="https://play.google.com/store/books/details?id=zlatEAAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=zlatEAAAQBAJ</a>
 
