@@ -134,7 +134,7 @@ data=[3;6;25;73;222;294;258;237;191;125;69;27;11;4] and [S0,I0,R0]=[760,3,0]
 
 ![WhatsApp Image 2024-11-20 at 19 19 07](https://github.com/user-attachments/assets/7213d6aa-5eec-4053-bd40-87e3ec168e72)
 
-### References
+### Other Links
 <a href="https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2022&filename=1022441137.nh&uniplatform=OVERSEA&v=OXYTlmkL6hgIwrGU4tpszbAydHhM7aHSA3rdWAnKvjpRJPdITJeY1Od90gy4Usjb" target="_blank">Ph.D. Thesis</a>
 
 <a href="https://rpubs.com/KNightingale/1064580" target="_blank">MCMC samplers used in Bayesian statistics</a>
