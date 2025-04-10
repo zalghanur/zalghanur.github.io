@@ -2,9 +2,6 @@ I'm a researcher at Universitas Airlangga<br>
 I'm interested in Data-Driven Dynamical Systems<br>
 Ph.D. in Applied Mathematics
 
-### Email
-mohammad.ghani@ftmm.unair.ac.id
-
 ### Personal Websites
 <a href="https://www.linkedin.com/in/mohammad-ghani-7b8b0b302/" target="_blank">LinkedIn</a> · <a href="https://rpubs.com/mghani" target="_blank">RPubs</a> · <a href="https://sciprofiles.com/profile/mohammadghani" target="_blank">SciProfiles</a> · <a href="https://scholar.unair.ac.id/en/persons/mohammad-ghani" target="_blank">Scholar UNAIR</a>
 
