@@ -20,6 +20,9 @@ Ph.D. in Applied Mathematics
 
 <a href="https://play.google.com/store/books/details?id=dDU5EQAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=dDU5EQAAQBAJ</a>
 
+### Proceedings
+<a href="https://play.google.com/store/books/details?id=6RsuEQAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=6RsuEQAAQBAJ</a>
+
 ### Reviewers
 <b>Invited Reviewer of Applications of Mathematics</b><br>
 Issued by Springer · March 2025<br>
