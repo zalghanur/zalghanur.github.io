@@ -24,6 +24,9 @@ Ph.D. in Applied Mathematics
 <a href="https://play.google.com/store/books/details?id=6RsuEQAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=6RsuEQAAQBAJ</a>
 
 ### Reviewers
+<b>Invited Reviewer of International Journal of Naval Architecture and Ocean Engineering</b><br>
+Issued by Elsevier · August 2025<br>
+
 <b>Invited Reviewer of Applications of Mathematics</b><br>
 Issued by Springer · March 2025<br>
 
