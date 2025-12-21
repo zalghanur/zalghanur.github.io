@@ -9,7 +9,7 @@ Ph.D. in Applied Mathematics
 
 <a href="https://orcid.org/0000-0003-3085-8668" target="_blank">ORCID Author ID: 0000-0003-3085-8668</a>
 
-<a href="https://sinta.kemdikbud.go.id/authors/profile/6771231" target="_blank">SINTA Author ID: 6771231</a>
+<a href="https://sinta.kemdiktisaintek.go.id/authors/profile/6771231" target="_blank">SINTA Author ID: 6771231</a>
 
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57204973352" target="_blank">Scopus Author ID: 57204973352</a>
 
