@@ -24,25 +24,25 @@ Ph.D. in Applied Mathematics
 <a href="https://play.google.com/store/books/details?id=6RsuEQAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=6RsuEQAAQBAJ</a>
 
 ### Reviewers
-<b><a href="https://drive.google.com/file/d/1VeNKggEmwV9fs4MyUQUTVH9KelmFRTRc/view?usp=drive_link&trk=public_profile_see-credential" target="_blank">Invited Reviewer of Scientific African</a></b><br>
+<a href="https://drive.google.com/file/d/1VeNKggEmwV9fs4MyUQUTVH9KelmFRTRc/view?usp=drive_link&trk=public_profile_see-credential" target="_blank">Invited Reviewer of Scientific African</a><br>
 Issued by Elsevier · Sep 2026<br>
 
-<b><a href="https://drive.google.com/file/d/1qeh_ZmyZbF7bTPEeaPkRctBWzjM7GPo6/view?usp=drive_link&trk=public_profile_see-credential" target="_blank">Invited Reviewer of Engineering Applications of Artificial Intelligence</a></b><br>
+<a href="https://drive.google.com/file/d/1qeh_ZmyZbF7bTPEeaPkRctBWzjM7GPo6/view?usp=drive_link&trk=public_profile_see-credential" target="_blank">Invited Reviewer of Engineering Applications of Artificial Intelligence</a><br>
 Issued by Elsevier · Sep 2026<br>
 
-<b><a href="https://drive.google.com/file/d/1GaA3O6d9aNfi2JbRh3FBKcJHeuJX9D4i/view?usp=drive_link&trk=public_profile_see-credential" target="_blank">Invited Reviewer of Journal of Cleaner Production</a></b><br>
+<a href="https://drive.google.com/file/d/1GaA3O6d9aNfi2JbRh3FBKcJHeuJX9D4i/view?usp=drive_link&trk=public_profile_see-credential" target="_blank">Invited Reviewer of Journal of Cleaner Production</a><br>
 Issued by Elsevier · Jun 2026<br>
 
-<b><a href="https://drive.google.com/file/d/1YwK5tiqUNCKrz1PIcWvNBL2TTbFccRIO/view?usp=drive_link&trk=public_profile_see-credential" target="_blank">Invited Reviewer of Journal of Infection</a></b><br>
+<a href="https://drive.google.com/file/d/1YwK5tiqUNCKrz1PIcWvNBL2TTbFccRIO/view?usp=drive_link&trk=public_profile_see-credential" target="_blank">Invited Reviewer of Journal of Infection</a><br>
 Issued by Elsevier · Mar 2026<br>
 
-<b><a href="https://drive.google.com/file/d/1lyrxjXvFDC0kTpN7U_YqNvVvnTwgvFOU/view?usp=drive_link&trk=public_profile_see-credential" target="_blank">Invited Reviewer of Information Processing & Management</a></b><br>
+<a href="https://drive.google.com/file/d/1lyrxjXvFDC0kTpN7U_YqNvVvnTwgvFOU/view?usp=drive_link&trk=public_profile_see-credential" target="_blank">Invited Reviewer of Information Processing & Management</a><br>
 Issued by Elsevier · Nov 2025<br>
 
-<b><a href="https://drive.google.com/file/d/1GmXg9d8KwKtia-2RjcE9vr8f-_qJVDlI/view?usp=drive_link&trk=public_profile_see-credential" target="_blank">Invited Reviewer of International Journal of Naval Architecture and Ocean Engineering</a></b><br>
+<a href="https://drive.google.com/file/d/1GmXg9d8KwKtia-2RjcE9vr8f-_qJVDlI/view?usp=drive_link&trk=public_profile_see-credential" target="_blank">Invited Reviewer of International Journal of Naval Architecture and Ocean Engineering</a><br>
 Issued by Elsevier · Oct 2025<br>
 
-<b><a href="https://drive.google.com/file/d/16qrkr2-hNW8KQvrliusWoECoLCOWrBgW/view?usp=drive_link&trk=public_profile_see-credential" target="_blank">Invited Reviewer of MethodsX</a></b><br>
+<a href="https://drive.google.com/file/d/16qrkr2-hNW8KQvrliusWoECoLCOWrBgW/view?usp=drive_link&trk=public_profile_see-credential" target="_blank">Invited Reviewer of MethodsX</a><br>
 Issued by Elsevier · Apr 2025<br>
 
 ### Conferences
