@@ -34,7 +34,7 @@ Issued by Elsevier · Sep 2026<br>
 Issued by Elsevier · Jun 2026<br>
 
 <b><a href="https://drive.google.com/file/d/1YwK5tiqUNCKrz1PIcWvNBL2TTbFccRIO/view?usp=drive_link&trk=public_profile_see-credential" target="_blank">Invited Reviewer of Journal of Infection</a></b><br>
-Issued by Sciendo · Mar 2026<br>
+Issued by Elsevier · Mar 2026<br>
 
 <b><a href="https://drive.google.com/file/d/1lyrxjXvFDC0kTpN7U_YqNvVvnTwgvFOU/view?usp=drive_link&trk=public_profile_see-credential" target="_blank">Invited Reviewer of Information Processing & Management</a></b><br>
 Issued by Elsevier · Nov 2025<br>
