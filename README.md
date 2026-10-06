@@ -83,6 +83,7 @@ ARM model is shown below:<br>
 
 <a href="https://github.com/mghaniunair/ARM-Model-MAPLE/blob/main/Calculation%20using%20Maple.pdf" target="_blank">Calculation using MAPLE</a><br>
 <a href="https://github.com/mghaniunair/ARM-Model-MAPLE/blob/main/Detailed%20description%20of%20dynamic%20systems.pdf" target="_blank">Detailed description of dynamic systems</a><br>
+\fbox{GHANI}
 
 #### fminsearch VS lsqcurvefit to estimate the parameters of infection rate and recovery rate for the SIR model
 
