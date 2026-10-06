@@ -121,6 +121,8 @@ data=[3;6;25;73;222;294;258;237;191;125;69;27;11;4] and [S0,I0,R0]=[760,3,0]
 
 ![estimate_parameter_SIR](https://github.com/user-attachments/assets/df3f49b2-a6f9-4afe-b11d-b9dad149446b)
 
+<a href="https://github.com/zalghanur/MassSpringDamper-SIR-Kalman-Filter/blob/main/SIR_Model_EKF.m" target="_blank">Code SIR_Model_EKF.m</a><br>
+
 #### Estimations of parameters for the Mass-Spring-Damper Dynamical Systems using Extended Kalman Filter (Case 1: for the estimation of mass (m) only, Case 2: for the estimations of mass (m), damping (b), and spring (k))
 
 ![WORKFLOW2_001](https://github.com/user-attachments/assets/b3de3fcc-f511-44be-9cc6-3e254c12a661)
@@ -139,7 +141,7 @@ data=[3;6;25;73;222;294;258;237;191;125;69;27;11;4] and [S0,I0,R0]=[760,3,0]
 
 ![WhatsApp Image 2024-11-20 at 19 19 07](https://github.com/user-attachments/assets/7213d6aa-5eec-4053-bd40-87e3ec168e72)
 
-<a href="https://github.com/zalghanur/MassSpringDamper-SIR-Kalman-Filter" target="_blank">Code EKF_MassSpring.m</a><br>
+<a href="https://github.com/zalghanur/MassSpringDamper-SIR-Kalman-Filter/blob/main/EKF_MassSpring.m" target="_blank">Code EKF_MassSpring.m</a><br>
 
 ### Other Links
 <a href="https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2022&filename=1022441137.nh&uniplatform=OVERSEA&v=OXYTlmkL6hgIwrGU4tpszbAydHhM7aHSA3rdWAnKvjpRJPdITJeY1Od90gy4Usjb" target="_blank">Ph.D. Thesis</a>
