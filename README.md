@@ -83,13 +83,15 @@ ARM model is shown below:<br>
 
 <a href="https://github.com/mghaniunair/ARM-Model-MAPLE/blob/main/Calculation%20using%20Maple.pdf" target="_blank">Calculation using MAPLE</a><br>
 <a href="https://github.com/mghaniunair/ARM-Model-MAPLE/blob/main/Detailed%20description%20of%20dynamic%20systems.pdf" target="_blank">Detailed description of dynamic systems</a><br>
-\fbox{GHANI}
+<textarea id="w3review" name="w3review" rows="4" cols="50">
+you will learn how to make a website. They offer free tutorials in all web development technologies.
+</textarea>
 
 #### fminsearch VS lsqcurvefit to estimate the parameters of infection rate and recovery rate for the SIR model
 
 <img src="https://latex.codecogs.com/svg.image?\left\{\begin{matrix}&\dot{S}=-\beta\cdot&space;S\cdot&space;I,\\&\dot{I}=\beta\cdot&space;S\cdot&space;I-\alpha\cdot&space;I,\\&\dot{R}=\alpha\cdot&space;I.\end{matrix}\right." /><br>
 
-<b>Initial values of parameters (before estimated by fminsearch and lsqcurvefit)</b>:<br>
+<b>Initial values of parameters (before being estimated by fminsearch and lsqcurvefit)</b>:<br>
 <img src="https://latex.codecogs.com/svg.image?\beta=1:infection\;rate&space;" /><br>
 <img src="https://latex.codecogs.com/svg.image?\alpha=0.2:recovery\;rate&space;" />
 
