@@ -83,9 +83,8 @@ ARM model is shown below:<br>
 
 <a href="https://github.com/mghaniunair/ARM-Model-MAPLE/blob/main/Calculation%20using%20Maple.pdf" target="_blank">Calculation using MAPLE</a><br>
 <a href="https://github.com/mghaniunair/ARM-Model-MAPLE/blob/main/Detailed%20description%20of%20dynamic%20systems.pdf" target="_blank">Detailed description of dynamic systems</a><br>
-<textarea id="w3review" name="w3review" rows="4" cols="50">
-you will learn how to make a website. They offer free tutorials in all web development technologies.
-</textarea>
+<a href="https://github.com/zalghanur/ARM-Model-EKF/blob/main/Arm_Model_EKF.m" target="_blank">Code Arm_Model_EKF.m</a><br>
+<a href="https://github.com/zalghanur/ARM-Model-EKF/blob/main/System.m" target="_blank">Code System.m</a><br>
 
 #### fminsearch VS lsqcurvefit to estimate the parameters of infection rate and recovery rate for the SIR model
 
